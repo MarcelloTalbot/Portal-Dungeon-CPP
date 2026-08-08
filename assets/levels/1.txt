@@ -1,0 +1,32 @@
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+T                              WW          MMMMMMMMMM          T
+T                              WW           MMMMM              T
+T                              WW        MMMMMM  MMM     MMM   T
+T                              WW          MMMMMMM      MMM    T
+T                              WW            MMMM MMM    MMMMM T
+T                              WW              MMMM    MMMM    T
+T       WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWMM MMMMT
+T       W                                              W       T
+T       W                                MMMM          W       T
+T       W                                 MMMM         W       T
+T       W                   MMM         MMMM           W       T
+T       W                  MMM                         W       T
+T       W                                              W       T
+T       W                               ....           W       T
+TWW  WWWW                             .....            WWWWWWWWT
+T       W                              ...             W       T
+T       W       ...........                            W       T
+T       W............MM                                W       T
+T       W    ............             MMM              W       T
+T       W   ..........               MMMMM             W       T
+T  .... W       ............          MMMM      B      W       T
+T ...   W                                M             W       T
+T...... WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW       T
+T   ..................  ..     WW                              T
+T ......     ............  .   WW                              T
+T  ..          .............   WW                              T
+T ......     ..................                                T
+T   ....   ..................  WW                              T
+T  ........................    WW                              T
+T                              WW                              T
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT

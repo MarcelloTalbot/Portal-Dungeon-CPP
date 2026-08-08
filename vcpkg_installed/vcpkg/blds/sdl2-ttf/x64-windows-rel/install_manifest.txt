@@ -1,0 +1,9 @@
+C:/Users/marce/source/repos/PortalDungeon/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/lib/SDL2_ttf.lib
+C:/Users/marce/source/repos/PortalDungeon/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/bin/SDL2_ttf.dll
+C:/Users/marce/source/repos/PortalDungeon/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/include/SDL2/SDL_ttf.h
+C:/Users/marce/source/repos/PortalDungeon/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/cmake/SDL2_ttfConfig.cmake
+C:/Users/marce/source/repos/PortalDungeon/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/cmake/SDL2_ttfConfigVersion.cmake
+C:/Users/marce/source/repos/PortalDungeon/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/cmake/SDL2_ttf-shared-targets.cmake
+C:/Users/marce/source/repos/PortalDungeon/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/cmake/SDL2_ttf-shared-targets-release.cmake
+C:/Users/marce/source/repos/PortalDungeon/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/lib/pkgconfig/SDL2_ttf.pc
+C:/Users/marce/source/repos/PortalDungeon/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/share/licenses/SDL2_ttf/LICENSE.txt
