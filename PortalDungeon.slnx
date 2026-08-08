@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PortalDungeon.vcxproj" Id="f691a121-5d6f-46a3-94fc-317850c487b9" />
+</Solution>

@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\levels">
+      <UniqueIdentifier>{c0642066-b209-49f3-8cd8-11947ca496f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\images">
+      <UniqueIdentifier>{76c04877-dbbe-4029-ab70-4d6bc634df93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\fonts">
+      <UniqueIdentifier>{cc38a975-7fba-4d30-bb0b-b6058517a75e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\States">
+      <UniqueIdentifier>{ec7762d0-40a5-4ce3-9e92-e26d10240673}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\States">
+      <UniqueIdentifier>{45542e00-b5b7-43e8-878c-0c778777e14c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GUI">
+      <UniqueIdentifier>{a35eb692-1d6a-421d-930b-75d21a491e29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI">
+      <UniqueIdentifier>{ed1e676f-8179-4551-8a57-c4165d4f237b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\images\buttons">
+      <UniqueIdentifier>{a77cccb7-a7dc-4e00-9720-3b7eb3987ab7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vec2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Zombie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityGroup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerGroup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ButtonGroup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameState.cpp">
+      <Filter>Source Files\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Controls.cpp">
+      <Filter>Source Files\States</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Source Files\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Paused.cpp">
+      <Filter>Source Files\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Playing.cpp">
+      <Filter>Source Files\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Quit.cpp">
+      <Filter>Source Files\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIElement.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vec2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Zombie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityGroup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerGroup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonGroup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Controls.h">
+      <Filter>Header Files\States</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Header Files\States</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Header Files\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Paused.h">
+      <Filter>Header Files\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Playing.h">
+      <Filter>Header Files\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Quit.h">
+      <Filter>Header Files\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GUIElement.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\images\icon.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="assets\images\tiles.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="assets\images\player.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="assets\images\zombie.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="assets\images\test_map.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="assets\images\test_tiles.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\back_down.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\back_up.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\continue_down.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\continue_up.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\control_down.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\control_up.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\main_down.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\main_up.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\no_down.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\no_up.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\play_down.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\play_up.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\quit_down.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\quit_up.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\respawn_down.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\respawn_up.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\retry_down.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\retry_up.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\yes_down.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\buttons\yes_up.png">
+      <Filter>Resource Files\images\buttons</Filter>
+    </Image>
+    <Image Include="assets\images\title.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="assets\levels\0.txt">
+      <Filter>Resource Files\levels</Filter>
+    </Text>
+    <Text Include="assets\levels\1.txt">
+      <Filter>Resource Files\levels</Filter>
+    </Text>
+    <Text Include="assets\levels\2.txt">
+      <Filter>Resource Files\levels</Filter>
+    </Text>
+    <Text Include="assets\levels\test_level.txt">
+      <Filter>Resource Files\levels</Filter>
+    </Text>
+    <Text Include="assets\levels\test_level_3.txt">
+      <Filter>Resource Files\levels</Filter>
+    </Text>
+    <Text Include="assets\levels\test_level_2.txt">
+      <Filter>Resource Files\levels</Filter>
+    </Text>
+    <Text Include="assets\levels\3.txt">
+      <Filter>Resource Files\levels</Filter>
+    </Text>
+    <Text Include="assets\fonts\OFL-Jersey10-Regular-License.txt">
+      <Filter>Resource Files\fonts</Filter>
+    </Text>
+    <Text Include="assets\fonts\OFL-OpenSans-Regular-License.txt">
+      <Filter>Resource Files\fonts</Filter>
+    </Text>
+    <Text Include="assets\fonts\OFL-Roboto-Regular-License.txt">
+      <Filter>Resource Files\fonts</Filter>
+    </Text>
+    <Text Include="assets\fonts\OFL-Tiny5-Regular-License.txt">
+      <Filter>Resource Files\fonts</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="assets\fonts\Tiny5-Regular.ttf">
+      <Filter>Resource Files\fonts</Filter>
+    </Font>
+    <Font Include="assets\fonts\Jersey10-Regular.ttf">
+      <Filter>Resource Files\fonts</Filter>
+    </Font>
+    <Font Include="assets\fonts\OpenSans-Regular.ttf">
+      <Filter>Resource Files\fonts</Filter>
+    </Font>
+    <Font Include="assets\fonts\Roboto-Regular.ttf">
+      <Filter>Resource Files\fonts</Filter>
+    </Font>
+  </ItemGroup>
+</Project>

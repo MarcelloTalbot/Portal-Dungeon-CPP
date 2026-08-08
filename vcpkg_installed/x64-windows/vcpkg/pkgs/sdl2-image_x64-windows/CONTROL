@@ -1,0 +1,8 @@
+Package: sdl2-image
+Version: 2.8.8
+Port-Version: 2
+Depends: libpng, sdl2, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: b5a9d645b758885c41ea8e52eb95f54c23b829f1a334e75d2dcf1b4acda8b633
+Description: SDL_image is an image file loading library. It loads images as SDL surfaces and textures, and supports the following formats: BMP, GIF, JPEG, LBM, PCX, PNG, PNM, TGA, TIFF, WEBP, XCF, XPM, XV
