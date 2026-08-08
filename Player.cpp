@@ -91,7 +91,7 @@ void Player::sprint(bool actions[]) {
 	//else {
 	//	energy += energy_regen;
 	//}
-	//energy = energy + trunc((max_energy - energy)/energy_regen) + fmodf() //trying to do a mathy approach (im stupid)
+	//energy = energy + trunc((max_energy - energy)/energy_regen) + fmodf() //hmmm trying to do it mathy without any ifs idk
 }
 
 void Player::update_bars() {
