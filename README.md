@@ -1,6 +1,9 @@
 # Portal-Dungeon
 A small top-down 2D dungeon crawler game made in C++20 with SDL2 built in MS Visual Studio with vcpkg only for x64.
 
+## Controls
+Movement: W, A, S, D
+
 ## Run
 ...
 
