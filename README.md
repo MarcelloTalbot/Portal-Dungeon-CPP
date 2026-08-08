@@ -4,6 +4,12 @@ A small top-down 2D dungeon crawler game made in C++20 with SDL2 built in MS Vis
 ## Controls
 Movement: W, A, S, D
 
+Sprint: Shift
+
+Pause/Quit/go back: Escape
+
+Fullscreen: F11
+
 ## Run
 ...
 
