@@ -1,6 +1,8 @@
 # Portal-Dungeon
 A small top-down 2D dungeon crawler game made in C++20 with SDL2 built in MS Visual Studio with vcpkg only for x64.
 
+You control a character using WASD around tile map levels containing many enemies chasing you, while you traverse portals, collect coins, refill ammo and escape to the next level.
+
 ## Controls
 Movement: W, A, S, D
 
