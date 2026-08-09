@@ -17,7 +17,7 @@ Open the .slnx file in MS Visual Studio
 
 NOTE: My vcpkg_installed has a strange layout I think so may cause issues.
 
-VS version: Community 2026 with Build Tools 2022
+My VS version: Community 2026 with Build Tools 2022
 
 ### Extras
 You might need to add the following in the project properties -> Linker ->.
