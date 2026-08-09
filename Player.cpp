@@ -9,7 +9,7 @@ void Player::update(bool actions[ACTION_COUNT], UpdateParams& params) {
 	findCurrentTile(params.tile_map);
 	setVelocity(actions);
 	applyTileEffects();
-	checkTileCollisions(params.tile_map);
+	// checkTileCollisions(params.tile_map);
 	//checkEntityCollisions();
 	move(params.dt);
 	rotateToPos(params.m_pos);
