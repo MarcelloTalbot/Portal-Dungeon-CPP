@@ -10,10 +10,12 @@ Pause/Quit/go back: Escape
 
 Fullscreen: F11
 
-## Run
-...
+## Build
+Download or clone the repository.
 
-NOTE: My vcpkg_installed has a strange layout I think.
+Open the .slnx file in MS Visual Studio
+
+NOTE: My vcpkg_installed has a strange layout I think so may cause issues.
 
 VS version: Community 2026 with Build Tools 2022
 
