@@ -22,11 +22,11 @@ My VS version: Community 2026 with Build Tools 2022
 ### Extras
 You might need to add the following in the project properties -> Linker ->.
 
-Debug:
+Debug - x64:
 - General -> Additional library directories: .\vcpkg_installed\x64-windows\x64-windows\debug\lib\manual-link;
 - Input -> Additional dependencies: $(CoreLibraryDependencies);%(AdditionalDependencies);sdl2maind.lib
 
-Release:
+Release - x64:
 - General -> Additional library directories: .\vcpkg_installed\x64-windows\x64-windows\lib\manual-link;
 - Input -> Additional dependencies: $(CoreLibraryDependencies);%(AdditionalDependencies);sdl2main.lib
 
