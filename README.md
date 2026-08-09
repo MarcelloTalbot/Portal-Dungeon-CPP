@@ -30,7 +30,7 @@ Release:
 - General -> Additional library directories: .\vcpkg_installed\x64-windows\x64-windows\lib\manual-link;
 - Input -> Additional dependencies: $(CoreLibraryDependencies);%(AdditionalDependencies);sdl2main.lib
 
-## Libraries
+## Dependencies
 - sdl2
 - sdl2-image
 - sdl2-ttf
