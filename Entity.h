@@ -61,7 +61,7 @@ public:
 
 	virtual void checkEntityCollisions(Entity& entity);
 
-	virtual void checkTileCollisions(TileMap& tile_map);
+	// virtual void checkTileCollisions(TileMap& tile_map);
 
 	virtual void update_bars();
 };
